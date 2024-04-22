@@ -1,0 +1,14 @@
+C:\Bureau2.0\EFFICOM 2 ASYNC\obj\Debug\net8.0\EFFICOM 2 ASYNC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bureau2.0\EFFICOM 2 ASYNC\obj\Debug\net8.0\EFFICOM 2 ASYNC.AssemblyInfoInputs.cache
+C:\Bureau2.0\EFFICOM 2 ASYNC\obj\Debug\net8.0\EFFICOM 2 ASYNC.AssemblyInfo.cs
+C:\Bureau2.0\EFFICOM 2 ASYNC\obj\Debug\net8.0\EFFICOM 2 ASYNC.csproj.CoreCompileInputs.cache
+C:\Bureau2.0\EFFICOM 2 ASYNC\bin\Debug\net8.0\EFFICOM 2 ASYNC.exe
+C:\Bureau2.0\EFFICOM 2 ASYNC\bin\Debug\net8.0\EFFICOM 2 ASYNC.deps.json
+C:\Bureau2.0\EFFICOM 2 ASYNC\bin\Debug\net8.0\EFFICOM 2 ASYNC.runtimeconfig.json
+C:\Bureau2.0\EFFICOM 2 ASYNC\bin\Debug\net8.0\EFFICOM 2 ASYNC.dll
+C:\Bureau2.0\EFFICOM 2 ASYNC\bin\Debug\net8.0\EFFICOM 2 ASYNC.pdb
+C:\Bureau2.0\EFFICOM 2 ASYNC\obj\Debug\net8.0\EFFICOM 2 ASYNC.dll
+C:\Bureau2.0\EFFICOM 2 ASYNC\obj\Debug\net8.0\refint\EFFICOM 2 ASYNC.dll
+C:\Bureau2.0\EFFICOM 2 ASYNC\obj\Debug\net8.0\EFFICOM 2 ASYNC.pdb
+C:\Bureau2.0\EFFICOM 2 ASYNC\obj\Debug\net8.0\EFFICOM 2 ASYNC.genruntimeconfig.cache
+C:\Bureau2.0\EFFICOM 2 ASYNC\obj\Debug\net8.0\ref\EFFICOM 2 ASYNC.dll

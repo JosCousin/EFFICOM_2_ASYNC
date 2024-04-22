@@ -1,0 +1,15 @@
+internal class Program
+{
+    private async static Task Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+        await ReadFile();
+        Console.WriteLine("Continuation du traitement");
+    }
+
+    private async static Task ReadFile(){
+        Console.WriteLine("Début de la lecture du fichier");
+        await Task.Delay(1000);
+        Console.WriteLine("Fin de la lecture");
+    }
+}

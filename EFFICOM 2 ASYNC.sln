@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFFICOM 2 ASYNC", "EFFICOM 2 ASYNC.csproj", "{CF280CBA-0095-455E-AEBD-83783C66A041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF280CBA-0095-455E-AEBD-83783C66A041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF280CBA-0095-455E-AEBD-83783C66A041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF280CBA-0095-455E-AEBD-83783C66A041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF280CBA-0095-455E-AEBD-83783C66A041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {727E3D18-5509-4B9D-8D2E-36849DD4F618}
+	EndGlobalSection
+EndGlobal
