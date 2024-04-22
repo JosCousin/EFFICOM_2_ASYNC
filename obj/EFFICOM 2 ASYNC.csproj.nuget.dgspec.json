@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Bureau2.0\\EFFICOM 2 ASYNC\\EFFICOM 2 ASYNC.csproj": {}
+    "C:\\Bureau2.0\\EFFICOM_2_ASYNC\\EFFICOM 2 ASYNC.csproj": {}
   },
   "projects": {
-    "C:\\Bureau2.0\\EFFICOM 2 ASYNC\\EFFICOM 2 ASYNC.csproj": {
+    "C:\\Bureau2.0\\EFFICOM_2_ASYNC\\EFFICOM 2 ASYNC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Bureau2.0\\EFFICOM 2 ASYNC\\EFFICOM 2 ASYNC.csproj",
+        "projectUniqueName": "C:\\Bureau2.0\\EFFICOM_2_ASYNC\\EFFICOM 2 ASYNC.csproj",
         "projectName": "EFFICOM 2 ASYNC",
-        "projectPath": "C:\\Bureau2.0\\EFFICOM 2 ASYNC\\EFFICOM 2 ASYNC.csproj",
+        "projectPath": "C:\\Bureau2.0\\EFFICOM_2_ASYNC\\EFFICOM 2 ASYNC.csproj",
         "packagesPath": "C:\\Users\\cousi\\.nuget\\packages\\",
-        "outputPath": "C:\\Bureau2.0\\EFFICOM 2 ASYNC\\obj\\",
+        "outputPath": "C:\\Bureau2.0\\EFFICOM_2_ASYNC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cousi\\AppData\\Roaming\\NuGet\\NuGet.Config"

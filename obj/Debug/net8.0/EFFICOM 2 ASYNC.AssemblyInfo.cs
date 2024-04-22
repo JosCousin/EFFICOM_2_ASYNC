@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFFICOM 2 ASYNC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8b08f3523478a984770ea3cfbba96d079502cee")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFFICOM 2 ASYNC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFFICOM 2 ASYNC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
